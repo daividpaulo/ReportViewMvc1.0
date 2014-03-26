@@ -30,7 +30,7 @@ ReportViewMvc.cs e ReportViewMvcUtil.
             const string nomePastaLocalDoRelatorio = "\\DeCliente";
             const string nomeRelatorio = "RelClientes.rdlc";
 
-            var localRelatorios = utilRelMvc.RetornaPathDllDeRelatorio(nomeDllRelatorio: nomeDlldeRelatorio) +       nomePastaLocalDoRelatorio;
+            var localRelatorios = utilRelMvc.RetornaPathDllDeRelatorio(nomeDllRelatorio: nomeDlldeRelatorio) + nomePastaLocalDoRelatorio;
            
             var relatorio = new RelatorioMvc(nomeRelatorio, localRelatorios);
 
