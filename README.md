@@ -18,7 +18,7 @@ ReportViewMvc.cs e ReportViewMvcUtil.
 
 3.3 - Clicar em finish 
 
-4º) Criar seus relatorios .rdlc, adicione um objeto table por exemplo, escolhe o data source para esse objeto e renomei o nome do dataSet, pois este nome será necessario na hora de popular os dados através do controller.
+4º) Agora podemos criar relatorios .rdlc, adicione um objeto table por exemplo ao relatorio criado, escolha o data source para esse objeto e mude o nome do dataSet antes de finalizar, pois este nome será necessario na hora de popular os dados através do controller.
 
 5º) Chamar e Gerar o relatorio a partir do Controller:
 
