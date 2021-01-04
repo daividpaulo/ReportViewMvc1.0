@@ -10,11 +10,11 @@ ReportViewMvc.cs e ReportViewMvcUtil.
 
 3º) Adicionar um ou mais DataSource(s) ao projeto DLL de relatorios criado.
     Para isso basta clicar na DLL criada, depois no menu Data > Add New Data Source
-    obs: Se o projeto Web principal estiver selecionado esta opção no meno Data não estara visivel.
+    obs: Se o projeto Web principal estiver selecionado esta opção no menu Data não estara visivel.
     
 3.1 - Escolha o tipo object
 
-3.2 - Escolha as classes de modelo que desaja para o(s) relatorio(s), talvez seja necessario clicar no botão adicionar referencia e adicionar sua DLL de Modelos de Dominio
+3.2 - Escolha as classes de modelo que deseja para o(s) relatorio(s), talvez seja necessario clicar no botão adicionar referencia e adicionar sua DLL de Modelos de Dominio
 
 3.3 - Clicar em finish 
 
